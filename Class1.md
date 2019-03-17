@@ -35,5 +35,3 @@ data type as object - That's why python doesn't need to explictly state the data
     > Pythonic means code that doesn't just get the syntax right but that follows the conventions of the Python community and uses the language in the way it is intended to be used.
 
 
-
-这是修改呀！！！！！
